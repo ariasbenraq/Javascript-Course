@@ -7,7 +7,8 @@ console.log("Ejercicio 1");
 // Ejercicio 3
 
 // Ejercicio 4
-
+import "./ejercicio_4.js";
+console.log("Ejercicio 4");
 // Ejercicio 5
 
 // Ejercicio 6
