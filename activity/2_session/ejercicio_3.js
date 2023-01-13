@@ -27,3 +27,4 @@ var invertirCadena = new InvertirCadena("");
 const reverseString = str => str.split("").reverse().join("");
 console.log(reverseString(invertirCadena.cadenaInvertir));
 invertirCadena.invert();
+invertirCadena.myMethod();
