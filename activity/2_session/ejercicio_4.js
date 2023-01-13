@@ -19,5 +19,5 @@ class MyCuenta {
 
 }
 
-var user = new MyCuenta("admin");
-user.validUser();
+let colaborador = new MyCuenta("admin", "passwd");
+colaborador.validUser();
