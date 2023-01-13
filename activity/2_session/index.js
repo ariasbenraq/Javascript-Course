@@ -7,7 +7,11 @@
 // Ejercicio 4
 
 // Ejercicio 5
+var loginSuccess = document.getElementById("loginSuccess");
+var loginFailure = document.getElementById("loginFailure");
 
+loginSuccess.addEventListener("click", function(){console.log("Correcto mano!")});
+loginFailure.addEventListener("click", function(){console.log("Incorrecto mano!")});
 // Ejercicio 6
 
 let loginWitUsername = (username, password) => {
